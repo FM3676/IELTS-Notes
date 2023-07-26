@@ -1,4 +1,4 @@
-# Writing Task 1
+#  Writing Task 1n
 
 ## Lesson1
 
@@ -30,7 +30,7 @@
 
 > Or put the overview at the end
 
-#### 1. Introduction
+#### 1. Introduction 
 
 ​	One sentence: Paraphrase the question 用一句话解释总结这个表，可以换个说法重新说一次图表的title。
 
@@ -106,3 +106,34 @@ Bar charts <u>can</u> show numbers changing over a period of time
 
 Pie charts <u>can</u> show numbers, but they <u>always</u> show percentages
 
+![**Pie-chart1**](Task1-Images/Lesson4/Pie-chart1.png)
+
+对于这个饼图，我们可以写出以下句子
+
+1. Football is the favourite sport of 10 children in the class.
+2. 50% of the children in the class prefer football to any other sport.
+3. Half of the class said that football was their favourite sport.
+
+> 值得注意的是，上面的句子来源于右边的百分比饼图，即使没有百分比，依靠左边同样可以说 Half of the class said that football was their favourite sport. 如果这些数字都没有，那也可以靠看估计，写出Around 50% of the children in the class prefer football to any other sport.
+
+Remember: the full pie is always 100%
+
+**Pie charts can show changes over time (e.g. years)**
+
+![Pie-chart2](Task1-Images/Lesson4/Pie-chart2.png)
+
+The categories are the same, 时间的不同，所以可以说数字的增加或减少
+
+**But pie charts don’t always how changes over time**
+
+这里展示了两个国家，或者任意两个地区或其他的东西。这里的数字就不可以说增加和减少了，只可以单纯的比较数字的大小
+
+![Pie-chart3](Task1-Images/Lesson4/Pie-chart3.png)
+
+**Your job is to compare the percentages (and numbers)**
+
+After introduction, you’re going do 2 types of comparison
+
+**First, **make a very general comparision (in summary / overview paragraph)
+
+**Second, ** compare specific figures (‘details’ paragraphs)
