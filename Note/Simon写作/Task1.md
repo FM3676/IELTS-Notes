@@ -172,3 +172,86 @@ But you <u>don’t</u> need to compare the 2 charts together - you can describe 
 
 **Second, ** describe specific numbers for each chart <u>separately</u> (‘details’ paragraph)
 
+## Lesson 7 - Process diagram
+
+Process diagrams shgow steps or stages in a proces.
+
+![Process-diagram1](Task1-Images/Lesson7/Process-diagram1.png)
+
+![Process-diagram2](Task1-Images/Lesson7/Process-diagram2.png)
+
+Describing a process is completely <u>different</u> from describing a graph, bar chart, pir chart or table
+
+**Differences: **
+
+- no numbers
+- cna’t compare anything
+- can’t describe trends (increase, decrease)
+
+**So, what can we describe?**
+
+- how many steps
+- where the process begins and ends
+- each step in the process
+
+Language for process descriptions:
+
+- ‘steps’ language
+  - At the first stage in the process
+  - The process begins with
+  - Sceond. Finally
+  - The second step involves
+  - Next, then, after that
+  - At the following stage
+- passive verbs
+
+![Process-diagram3](Task1-Images/Lesson7/Process-diagram3.png)
+
+什么是passive(被动) verbs？ 例如这里， 可以说：
+
+**glass <u>is collected</u>**
+
+这比说 People collect glass 要更好
+
+由此可以得出第一句话：
+
+**At the first stage in the process, glass is <u>collected</u>.**
+
+![Process-diagram4](Task1-Images/Lesson7/Process-diagram4.png)
+
+再看第二步，例如这里可以写：
+
+Next, people <u>sort</u> the glass by hand
+
+也可以写为更好的被动语态passive verbs：
+
+Next, the collected glass <u>is sorted</u> by hand
+
+![Process-diagram5](Task1-Images/Lesson7/Process-diagram5.png)
+
+再看一个难一点的情况，这里是有可能不知道grind的过去式的，所以这里需要如何表达呢？
+
+主动句式如下：
+
+A machine <u>grinds</u> the glass.
+
+或者
+
+The glass <u>passes</u> thtough a grinding machine.
+
+现在尝试被动态，但我们不确定grind的过去式，所以依然可以使用pass
+
+The glass <u>is passed</u> through a grinding machine
+
+如果知道那么就是
+
+The glass <u>is ground</u> in a machine
+
+或者
+
+The **sorted** glass <u>is</u> **then** <u>ground</u> in a machine
+
+> Note: <u>maps</u> can also show process
+
+![Process-diagram6](Task1-Images/Lesson7/Process-diagram6.png)
+
