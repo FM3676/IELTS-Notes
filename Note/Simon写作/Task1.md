@@ -137,3 +137,24 @@ After introduction, you’re going do 2 types of comparison
 **First, **make a very general comparision (in summary / overview paragraph)
 
 **Second, ** compare specific figures (‘details’ paragraphs)
+
+## Lesson 5 - Tables
+
+Tables can show
+
+- any kinf of number
+- the same information as a line graph, bar chart or pie chart
+- comparisons
+- changes over time (increase, decrease)
+- a lot of information (too much!)
+
+There are too much information that table can show, you can’t describe then all in 150 words.
+
+**A ket skill is ‘selecting’ which information to mention**
+
+**Your job is to select, describe and compare the key number**
+
+**First, ** look for main or general features (in summary / overview paragraph after introduction)
+
+**Second, ** describe specific numbers (‘details’ paragraph)
+
