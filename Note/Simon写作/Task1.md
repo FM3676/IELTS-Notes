@@ -255,3 +255,56 @@ The **sorted** glass <u>is</u> **then** <u>ground</u> in a machine
 
 ![Process-diagram6](Task1-Images/Lesson7/Process-diagram6.png)
 
+## Lesson 8 - Comparison diagram
+
+Comparisonm diagrams show:
+
+- changes to something e.g. an old design compared to a new design
+- or two alternative designs
+- or even two alternative locations on a map
+
+### Changes to something e.g. an old design compared to a new design
+
+![Comparison-diagram1](Task1-Images/Lesson8/Comparison-diagram1.png)
+
+![Comparison-diagram2](Task1-Images/Lesson8/Comparison-diagram2.png)
+
+这两者没有太大的区别，本质都是新旧比较，只不过呈现的载体不同
+
+### Two alternative designs
+
+![Comparison-diagram3](Task1-Images/Lesson8/Comparison-diagram3.png)
+
+### Two alternative locations on a map
+
+![Comparison-diagram4](Task1-Images/Lesson8/Comparison-diagram4.png)
+
+**Your job is to compare the diagrams:**
+
+- Describe the changes
+- Describe things that don’t changes
+- Describe the differences
+- Describe the similarities
+
+> **Important: Think about the verb tense that you’ll use**
+
+### Diagram showing ‘before and after’
+
+![Comparison-diagram5](Task1-Images/Lesson8/Comparison-diagram5.png)
+
+### Map showing ‘before and after’
+
+![Comparison-diagram6](Task1-Images/Lesson8/Comparison-diagram6.png)
+
+### Diagram showing ‘now and future’
+
+![Comparison-diagram7](Task1-Images/Lesson8/Comparison-diagram7.png)
+
+### ‘Alternative designs’ diagrams
+
+![Comparison-diagram8](Task1-Images/Lesson8/Comparison-diagram8.png)
+
+### ‘Alternative locations’ map
+
+![Comparison-diagram9](Task1-Images/Lesson8/Comparison-diagram9.png)
+
