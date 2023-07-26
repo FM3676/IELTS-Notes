@@ -158,3 +158,17 @@ There are too much information that table can show, you can’t describe then al
 
 **Second, ** describe specific numbers (‘details’ paragraph)
 
+## Lesson 6 - 2 Different charts
+
+![Two-Different-Type-Charts](Task1-Images/Lesson6/Two-Different-Type-Charts.png)
+
+These are questions with 2 different charts, which you can’t compare together.
+
+Your job is to select, describe and compare the key numbers
+
+But you <u>don’t</u> need to compare the 2 charts together - you can describe them separately
+
+**First, **look for one main feature in <u>each</u> chart (summary / overview paragraph) (one about each chart)
+
+**Second, ** describe specific numbers for each chart <u>separately</u> (‘details’ paragraph)
+
