@@ -346,28 +346,86 @@ The glass recycling process begins with collection of used glass. Next, the coll
 
 ### Modal essay
 
-> The first flow diagram illustrates the process of glass container production, and the second 
+> The first flow diagram <u>illustrates</u> the process of glass container production, and the second 
 >
-> diagram shows steps in the process of recycling used glass.
+> diagram shows <u>steps in the process of</u> recycling used glass.
 >
-> We can see that glass is made using three main raw materials, and that the manufacturing process 
+> We can see that glass is made using three main <u>raw materials</u>, and that the <u>manufacturing process</u> 
 >
-> consists of four distinct stages. It requires five steps to turn used glass into new glass products.
+> <u>consists of four distinct stages</u>. It requires five steps to <u>turn used glass into new glass products</u>.
 >
-> At the first stage in the production of glass, sand, soda ash, limestone and other chemicals are 
+> <u>At the first stage</u> in the production of glass, sand, soda ash, limestone and other chemicals are 
 >
-> mixed together. Next, this mixture is heated in a glass furnace at approximately 1500℃ to produce 
+> mixed together. <u>Next</u>, this <u>mixture</u> is heated in a glass furnace at approximately 1500℃ to produce 
 >
-> molten glass. The molten glass can then be shaped, by blowing, to create the end products, 
+> molten glass. The molten glass <u>can then be shaped</u>, by blowing, to create the <u>end products</u>, 
 >
-> namely glass containers.
+> <u>namely</u> glass containers.
 >
-> Glass recycling begins with the collection of used glass products. The collected glass is sorted 
+> Glass recycling <u>begins with</u> the <u>collection</u> of used glass products. The collected glass <u>is sorted</u> 
 >
-> according to its colour, and then washed in order to remove any impurities. At the fourth stage of 
+> <u>according</u> to its colour, and then washed in order to remove any impurities. <u>At the fourth stage of</u> 
 >
-> recycling, the glass is crushed and melted, and the resulting molten glass can finally be moulded to 
+> <u>recycling</u>, the glass is crushed and melted, and the <u>resulting molten glass</u> can finally be moulded to 
 >
 > create new items.
 >
 > (163 words, band 9)
+
+## Comparison Diagram
+
+![Comparison-Diagram](Task1-Images/Task1-Pratices/Comparison-Diagram.png)
+
+The diagrams compare the current design of ground floor with the proposed plan for the same place.
+
+There are several changes from existing layout to the new one. It is obvious that the hall in the center of floor is planning to be removed in the new plan. The living room and the kitchen will be kept.
+
+It is noticable that the hall will be removed and replaced to the new stairs which is designed as a hex staircase.  Meanwhile, two internal door are moved nearer to the entrance door. The wall between living room and legacy wall was also demoenstrated.
+
+The kitchen layout doesn't change to much, except for adding some kitchen furniture. Also, the external wall remain the existing design. All the entrance doors doesn't' change as well.
+
+### Correction
+
+> 原文的错误和修改意见如下：
+>
+> 1. "the proposed plan for the same place" 应改为 "a plan to redesign the same living space"，用词不恰当。
+> 2. "existing layout" 应改为 "current layout"，用词不恰当。
+> 3. "planning to be removed" 应改为 "planned to be removed"，时态错误。
+> 4. "noticable" 应改为 "noticeable"，拼写错误。
+> 5. "demonstrated" 应改为 "demonstrated"，拼写错误。
+> 6. "to much" 应改为 "too much"，用词不恰当。
+> 7. "doesn't' change" 应改为 "doesn't change"，拼写错误。
+> 8. "internal door are moved" 应改为 "internal doors have been moved"，时态错误。
+> 9. "legacy wall" 应改为 "adjacent wall"，用词不恰当。
+
+### Modal essay
+
+> The two pictures compare the <u>current layou</u>t of the ground floor of a house with <u>a plan to redesign</u> 
+>
+> the same living space.
+>
+> We can see that the new <u>design proposal</u> involves making a number of changes to the ground floor 
+>
+> of the house, mainly in the central hall area. There <u>are no plans to</u> change external walls or 
+>
+> entrances.
+>
+> <u>The most noticeable change</u> from the existing to the proposed floor plan is that there <u>will no longer</u> 
+>
+> <u>be</u> a separate hall area when the building work has been done. <u>This will be achieved by removing</u> 
+>
+> the internal wall and door between the hall and living room, along with the current staircase and 
+>
+> <u>under-stair</u> storage cupboard. With no separate <u>hall area</u>, the proposed living room <u>will also</u> 
+>
+> <u>contain</u> the staircase to the first floor.
+>
+> To replace the current straight staircase, a new set of winding stairs <u>will be installed</u> in the corner of 
+>
+> the living room. The internal door between the hall and kitchen will also <u>be replaced with</u> double 
+>
+> doors connecting the kitchen with the new living room. Finally, the <u>planned building work</u> will also 
+>
+> include the <u>installation of some kitchen furniture</u>.
+>
+> (194 words, band 9)
