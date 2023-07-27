@@ -262,4 +262,59 @@ Spenting by tourist in USA rose form 126.2 millions in 2012  to 139.6 millions i
 >
 > (200 words, band 9) 
 >
+> *Note: word count includes all numbers*0
+
+### 2 Different charts
+
+![2-Different-Chart](Task1-Images/Task1-Pratices/2-Different-Chart.png)
+
+The bar chart compares the numbers of male and female joining 4 types of classes in 2009. The pie chart shows the age of these attenders.
+
+It is noticable that most of women prefered attend the Language class while men would like to joined in the Painting course. Meanwhile, almost half of students were 50 or over.
+
+The bar chart shows that drama, panting and language attracted more women that men to join the class. In spint of Sculpture had male student than female, it's stundents number was miniumn. As a contrast, language course were the most popular one, attracted 40 female students and 20 male students. The another class that the number of male studens was half of female students was drama, with 10 male students and 20 female students.
+
+From the pie chart we can know that 68% of students' age were over 40, with 42% over 50 and 26% between 40 and 49. Meanwhile, both age between 20 and 29 and aged under 29 were 16%, with 5% under 20 and 11% aged from 20 to 29.
+
+### Correction
+
+> 1. "noticable" 应改为 "noticeable"，拼写错误。
+> 2. "prefered" 应改为 "preferred"，拼写错误。
+> 3. "joined in" 应改为 "joined"，用词不恰当。
+> 4. "stundents" 应改为 "students"，拼写错误。
+> 5. "miniumn" 应改为 "minimum"，拼写错误。
+> 6. "male studens" 应改为 "male students"，拼写错误。
+> 7. "From the pie chart we can know that" 应改为 "Looking at the pie chart, we can see that"，用词不恰当。
+> 8. "aged under 29" 应改为 "aged 30 to 39"，错误数据。
+
+### Modal essay
+
+> The bar chart compares the numbers of males and females <u>who took four different evening classes</u> 
+>
+> in 2009, and the pie chart shows the age profile of these <u>attendees</u>.
+>
+> It is clear that <u>significantly more women than</u> men <u>attended evening classes</u> at the education 
+>
+> centre. We can also see that evening courses were much more popular among older adults.
+>
+> <u>According to the bar chart</u>, drama, painting and language courses all <u>attracted more women than</u> 
+>
+> <u>men</u> to the education centre in 2009. Language classes <u>had the highest number of</u> <u>participants</u> 
+>
+> overall, with 40 female and 20 male students, while painting was <u>a popular choice among both</u> 
+>
+> <u>genders</u>, <u>attracting</u> 30 female and 25 male attendees. The only course with a higher number of 
+>
+> males was sculpture, but this course <u>was taken by a mere 15 people in total</u>.
+>
+> <u>Looking at the age profile pie chart</u>, we can see that <u>the majority of</u> people attending evening 
+>
+> lessons were over 40 years of age. <u>To be precise</u>, 42% of them were aged 50 or more, and 26% 
+>
+> were aged between 40 and 49. Younger adults <u>were in the minority</u>, with only 11% of students 
+>
+> aged 20 to 29, and only 5% aged under 20.
+>
+> (200 words, band 9)
+>
 > *Note: word count includes all numbers*
