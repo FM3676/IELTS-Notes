@@ -120,3 +120,81 @@ From 2009 to 2019, Apple sales also rose rapidly each year, from 40 millions to 
 > slightly. 
 >
 > (190 words, band 9)
+
+## Pie Chart
+
+![Pie-Chart](Task1-Images/Task1-Pratices/Pie-Chart.png)
+
+### Practice
+
+The pie chart compares five categories of hosehold spenmding in UK and New Zealand from 1980 to 2008.
+
+It is clear that the proportion of spending on foods decreased in both conturies espically in UK. Also, the UK residents spent more on their utility bills.
+
+In 1980, the foods and drinks took 23% of household spending in UK and 29% in New Zealand. In 2008, these figures became 13% and 25%, both were decreased. As a contrast, The spending on utility bills were increased in both conturies, from 26 % to 28% in UK and 27% to 31% in New Zealand.
+
+Leisure activities accounted for most in UK household spending in both years, while the counterpart in New Zealand just fallen by 1% to 17%. The transport spedning fallen by 1% in both countries during the period. The other spending are both took 9% in 1980 and 11% in 2008.
+
+### Correction
+
+> 以下是您提供的文章的修改意见：
+>
+> 1. "hosehold spenmding"应为 "household spending"。
+> 2. "conturies"应为 "countries"。
+> 3. "espically" 应为 "especially"。
+> 4. "foods"应为 "food"，因为"food"在这里是不可数名词。
+> 5. "both were decreased"应为 "both of which decreased"。
+> 6. "The spending on utility bills were increased"应为 "Spending on utility bills increased"，因为"spending"是单数形式。
+> 7. "conturies"应为 "countries"。
+> 8. "spedning"应为 "spending"。
+> 9. "fallen"应为 "fell"。
+> 10. "counterpart"应为 "equivalent"，因为这里是在指代相同的类别（leisure activities）。
+> 11. "just fallen by 1%"应为 "had fallen by 1%"。
+> 12. "transport spedning fallen"应为 "spending on transport fell"。
+> 13. "are both took"应为 "both accounted for"。
+
+### Modal essay
+
+> The pie charts compare five categories of household <u>expenditure</u> in the UK and New Zealand in  
+>
+> the years 1980 and 2008. 
+>
+> It is <u>noticeable</u> that the <u>proportion of spending</u> on food and drink fell in both countries over the 28- 
+>
+> year period, while <u>spending</u> on utility bills <u>rose</u>. Also, UK residents <u>spent a significantly larger</u>  
+>
+> <u>percentage of their household budgets</u> on leisure than their <u>New Zealand counterparts</u>. 
+>
+> In 1980, <u>29% of an average New Zealand household budget</u> went on food and drink, while <u>the</u>  
+>
+> <u>equivalent figure for a UK home</u> was 23%. <u>By 2008, expenditure on food and drink had fallen</u> by  
+>
+> 4% in New Zealand, and by a full 10% in the UK. <u>By contrast</u>, both countries <u>saw an increase</u> in  
+>
+> expenditure on utility bills for the average home, from 27% to 31% in New Zealand and from 26%  
+>
+> to 28% in the UK. 
+>
+> <u>Leisure activities accounted for</u> the highest proportion of UK household spending in both years, but  
+>
+> only the <u>third highest proportion</u> in New Zealand. In fact, in 2008, New Zealanders <u>spent only half</u>  
+>
+> <u>as much in relative terms</u> on <u>recreation</u> (17%) as UK residents (34%). In both countries, transport  
+>
+> costs and other costs took roughly 15% and 10% of household budgets respectively. 
+>
+> (206 words, band 9) 
+>
+> *Note: word count includes all numbers*
+
+#### Tips
+
+- Don’t describe each country separatly
+- Don’t describe each year separately
+- Compare countries and years <u>together</u>
+- Mention all 5 categories (food & drink etc.)
+- Divide the catergories into two groups for the two ‘details’ paragraphs
+- The category called ‘Other’ is not important
+- Don’t write ‘Leisure was 34%’
+- Write “Households spend 34% of their money on leisure”
+
