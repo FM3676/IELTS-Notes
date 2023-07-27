@@ -198,3 +198,68 @@ Leisure activities accounted for most in UK household spending in both years, wh
 - Don’t write ‘Leisure was 34%’
 - Write “Households spend 34% of their money on leisure”
 
+### Table
+
+![Table](Task1-Images/Task1-Pratices/Table.png)
+
+The table compares the number of torists and the money spent by tourist of top five countries for international tourism in 2012 and 2013.
+
+It is noticable that the USA earned most money from tourist, more that 100 billion. However, it was France that attracted the most tourists to visit.
+
+In 2012, 83 millions tourists visited France, making it became the most popular of five. The USA was the second most visited country, with 66.7 millions tourists. The Spain and the China had similar number of tourists, 57.5 millions tourists visited Spain and 0.2millions more tourisits visited China. However, Italy only got 46.4 millions tourists. One year later, all contories rose 1 to 4 millions tourists, except China, which decreased to 55.7 millions.
+
+Spenting by tourist in USA rose form 126.2 millions in 2012  to 139.6 millions in 2013, this was almost the Acummalation of France(53.6 millions and 56.1 millions), Italy(41.2 billion and 43.9 billion) and China (50.0 billion and 51.7 billion). The Spain got second biggest rose, which is 4 billion, from 56.3 billion to 60.4 billion, while China only rose 1.7 billion.
+
+### Correction
+
+> 以下是您提供的文章的修改意见：
+>
+> 1. "torists" 应为 "tourists"。
+> 2. "more that" 应为 "more than"。
+> 3. "making it became the most popular of five" 应为 "making it the most popular of the five".
+> 4. "the China" 应为 "China"。
+> 5. "Italy only got 46.4 millions tourists" 应为 "Italy received only 46.4 million tourists".
+> 6. "all contories rose" 应为 "all countries saw an increase".
+> 7. "except China, which decreased to 55.7 millions" 应为 "except for China, which saw a decrease to 55.7 million".
+> 8. "Spenting" 应为 "Spending"。
+> 9. "form" 应为 "from"。
+> 10. "139.6 millions" 应为 "139.6 billion"。
+> 11. "this was almost the Acummalation" 应为 "which was almost the combined total".
+> 12. "and 51.7 billion" 应为 "and 51.7 billion respectively".
+> 13. "The Spain" 应为 "Spain"。
+> 14. "which is 4 billion" 应为 "which was a rise of 4 billion".
+> 15. "only rose 1.7 billion" 应为 "only saw a rise of 1.7 billion".
+
+### Modal essay
+
+> The table compares the <u>five highest ranking countries</u> in terms of the numbers of visits and the  
+>
+> money spent by tourists over a period of two years. 
+>
+> It is clear that France was <u>the world’s most popular tourist destination</u> in the years 2012 and 2013.  
+>
+> However, the USA <u>earned by far the most</u> <u>revenue from tourism</u> over the same period. 
+>
+> In 2012, 83 million tourists visited France, and the USA was <u>the second most visited country</u>, with  
+>
+> 66.7 million tourists. Spain and China each <u>received just under 58 million visitors</u>, while Italy was  
+>
+> <u>ranked fifth</u> with 46.4 million tourists. <u>2013 saw a rise of</u> between 1 and 4 million tourist visits to  
+>
+> each country, with the exception of China, which received 2 million <u>fewer visitors than in the</u>  
+>
+> <u>previous year</u>. 
+>
+> Spending by tourists visiting the USA increased from $126.2 billion in 2012 to $139.6 billion in  
+>
+> 2013, and <u>these figures were well over twice as high as</u> those for any other country. Spain received  
+>
+> the second highest <u>amounts of tourist revenue</u>, rising from $56.3 billion to $60.4 billion, followed by  
+>
+> France, China and Italy. Interestingly, <u>despite falling numbers</u> of tourists, Chinese revenue from  
+>
+> tourism <u>rose by</u> $1.7 billion in 2013. 
+>
+> (200 words, band 9) 
+>
+> *Note: word count includes all numbers*

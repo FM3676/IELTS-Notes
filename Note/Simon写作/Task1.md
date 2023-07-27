@@ -142,7 +142,7 @@ After introduction, you’re going do 2 types of comparison
 
 Tables can show
 
-- any kinf of number
+- any kind of number
 - the same information as a line graph, bar chart or pie chart
 - comparisons
 - changes over time (increase, decrease)
@@ -150,7 +150,7 @@ Tables can show
 
 There are too much information that table can show, you can’t describe then all in 150 words.
 
-**A ket skill is ‘selecting’ which information to mention**
+**A key skill is ‘selecting’ which information to mention**
 
 **Your job is to select, describe and compare the key number**
 
