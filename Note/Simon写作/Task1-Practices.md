@@ -318,3 +318,56 @@ From the pie chart we can know that 68% of students' age were over 40, with 42% 
 > (200 words, band 9)
 >
 > *Note: word count includes all numbers*
+
+## Process worksheet
+
+![Process-worksheet](Task1-Images/Task1-Pratices/Process-worksheet.png)
+
+The first diagrams shows the process of glass production, and the second diaghrams shows the process of glass recycling.
+
+The glass production start from mixing materials and chemicals and after 3 steps produce the glass containers. And glass recycling requires 5 steps to finish.
+
+At the first staghe in the process of glass proidction, sand, soda ash, limestone and other chemicals were mixed together. Second, the mixture will be melting in a glass furnace at about 1500℃. Finally, the molten glass will be blowed to be shaped in a glass containers to get the end product.
+
+The glass recycling process begins with collection of used glass. Next, the collected glass will be sorted by their colour and then the sorted glass will be wahsed to remove impurities. After that, these glass will get curshed and molten. Finally, they will be modeled into the new products.
+
+### Correction
+
+> 原文的错误和修改意见如下：
+>
+> 1. "diaghrams" 应改为 "diagrams"，拼写错误。
+> 2. "proidction" 应改为 "production"，拼写错误。
+> 3. "blowed" 应改为 "blown"，动词时态错误。
+> 4. "wahsed" 应改为 "washed"，拼写错误。
+> 5. "these glass" 应改为 "this glass"，语法错误。
+> 6. "get curshed" 应改为 "get crushed"，拼写错误。
+> 7. "modeled" 应改为 "moulded"，拼写错误。
+> 8. "start" 应改为 "starts"，主谓不一致。
+
+### Modal essay
+
+> The first flow diagram illustrates the process of glass container production, and the second 
+>
+> diagram shows steps in the process of recycling used glass.
+>
+> We can see that glass is made using three main raw materials, and that the manufacturing process 
+>
+> consists of four distinct stages. It requires five steps to turn used glass into new glass products.
+>
+> At the first stage in the production of glass, sand, soda ash, limestone and other chemicals are 
+>
+> mixed together. Next, this mixture is heated in a glass furnace at approximately 1500℃ to produce 
+>
+> molten glass. The molten glass can then be shaped, by blowing, to create the end products, 
+>
+> namely glass containers.
+>
+> Glass recycling begins with the collection of used glass products. The collected glass is sorted 
+>
+> according to its colour, and then washed in order to remove any impurities. At the fourth stage of 
+>
+> recycling, the glass is crushed and melted, and the resulting molten glass can finally be moulded to 
+>
+> create new items.
+>
+> (163 words, band 9)

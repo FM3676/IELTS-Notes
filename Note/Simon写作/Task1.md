@@ -174,7 +174,7 @@ But you <u>don’t</u> need to compare the 2 charts together - you can describe 
 
 ## Lesson 7 - Process diagram
 
-Process diagrams shgow steps or stages in a proces.
+Process diagrams show steps or stages in a proces.
 
 ![Process-diagram1](Task1-Images/Lesson7/Process-diagram1.png)
 
