@@ -474,5 +474,112 @@ If governments <u>reallocated the money</u> spent on space travel and research, 
 
 #### Spend on services that benfits us all
 
-<u>In conclusion</u>, <u>my view is that</u> governments should spend money on services that benefit all members of society, and it is wrong to <u>waste resouces</u> on projects that do not improve our everyday lives.
+**<u>In conclusion</u>**, <u>my view is that</u> governments should spend money on services that benefit all members of society, and it is wrong to <u>waste resouces</u> on projects that do not improve our everyday lives.
+
+## Lesson 7 - Full Discusion Essay
+
+> Some people think that a sense of <u>competition</u> in children should be encouraged. Others believe that children who are taught to <u>co-operate</u> rather than compete become more useful adults. Discuss <u>both</u> these <u>views</u> and <u>give your own opinion</u>.
+
+### Planning
+
+#### 1. Read and understand the question
+
+- Highlight / underline key parts
+
+#### 2. Plan your essay structure (4 paragraphs)
+
+1. Introduction: topic + answer
+   - Topic: competition or co-operation
+   - Answer: benfits of both, co-operation more important
+2. Why encourage competition
+3. Why teach co-operation (my view)
+4. Conclusion: repeat answer 
+   - accept both views, co-operation better
+
+#### 3. Plan ideas for the two main paragraphs (6 minutes)
+
+##### Why encourage competition
+
+motivation to work harder, be better than other children, self confidence, independent work, faster progress, competitive situations when leave school e.g. job interviews, prepared for adult life
+
+###### Number them
+
+1. motivation to work harder
+2. be better than other children
+3. self confidence
+4. competitive situations when leave school e.g. job interviews
+5. prepared for adult life
+
+> These are not separate ideas, they are all related.
+
+##### Why teach co-operation (my view)
+
+Co-opearation even more important, e.g. at work (teams, follow boss's instructions, help junior staff), collaboration more useful that winning, better attitude for young people, working together
+
+###### Number them
+
+1. Co-opearation even more important
+2. e.g. at work (teams, follow boss's instructions, help junior staff)
+3. collaboration more useful that winning
+4. better attitude for young people
+5. working together
+
+### Introduction 
+
+#### Plan
+
+- Topic: competition or. co-operation
+- Answer: benefits of both, co-operation more important
+
+<u>People have differenty views about</u> whether children should be taught to be competitive or co-operative. <u>While</u> <u>a spirit of</u> competition can sometimes be useful in life, <u>I believe</u> that <u>the ability to</u> co-operate is more important.
+
+### Paragraph 2
+
+#### Why encourage competition? - motivation
+
+<u>**On the one hand**</u>, competition can be a great source of motivation for children.
+
+#### Work harder, be better than other children
+
+When teachers use games or prizes <u>to introduce an element of</u> <u>competitiveness</u> into lessons, it can encourage children to <u>work harder to outdo</u> the other pupils in the class.
+
+#### Self confidence, independent. work, faster progress
+
+This kind of <u>healthy rivalry</u> may help to build children's self confidence, while pushing them to work <u>independently</u> and <u>progress more quickly</u>.
+
+#### Competitive situations when leave school e.g. job interviews
+
+When these children leave school, their confidence and determination will help them in <u>competitive situations</u> <u>such as</u> job interviews.
+
+#### Prepared for adult life
+
+It can therefore be argued that competition should be encouraged in order to prepare children for adult life.
+
+### Paragraph 3
+
+#### Co-operation is more important
+
+<u>**On the other hand**</u>, it is perhaps even more important to prepare children <u>for the many aspects of adult life</u> that <u>require</u> co-operation.
+
+#### e.g. at work (teams, follow boss's instructions, help junior staff)
+
+In the work place, adults are expected to work in teams, <u>follow instructions</u> given by their <u>superiors</u>, or <u>supervise</u> and support the more junior members of staff.
+
+#### Collaboration more useful that winning
+
+Team <u>collaboration</u> skills are much more <u>useful</u> than a <u>competitive determination</u> to win.
+
+#### Better attitude for young people
+
+This is the attitude that <u>I believe</u> schools should <u>foster</u> in yound people.
+
+#### Working together
+
+Instead of <u>promoting the idea</u> that people <u>are either winners or losers</u>, teachers could show children that they can <u>gain more from</u> working together.
+
+### Conclusion
+
+#### Accept both views, co-operation better
+
+<u>**In conclusion**</u>, I can understand why people might want to <u>encourage competitiveness</u> in children, but it seems to me that <u>a co-operative attitude</u> is much more <u>desirable</u> in adult life.
 
