@@ -583,3 +583,114 @@ Instead of <u>promoting the idea</u> that people <u>are either winners or losers
 
 <u>**In conclusion**</u>, I can understand why people might want to <u>encourage competitiveness</u> in children, but it seems to me that <u>a co-operative attitude</u> is much more <u>desirable</u> in adult life.
 
+## Lesson 8 - Full Problem and Solution Essay
+
+> In many countries <u>schools</u> have severe problems with <u>student behaviour</u>.
+>
+> What do <u>you</u> think are the <u>causes</u> of this
+>
+> What <u>solutions</u> can <u>you</u> suggest?
+
+### Planning
+
+#### 1. Read and understand the question
+
+- Highlight / underline key parts
+
+#### 2. Plan your essay structure (4 paragraphs)
+
+1. Introduction: topic + answer
+   - Topic: student behaviour in schools
+   - Answer: variety of reasons, steps can be taken to tackle
+2. Causes of bad student behaviour
+3. My suggested solutions
+4. Conclusion: repeat answer 
+   - summarise the problem and steps
+
+#### 3. Plan ideas for the two main paragraphs (6 minutes)
+
+##### Causes of bad student behaviour
+
+<u>parents</u> not strict (too lenient), children don't accept teachers' instructions or school rules, <u>teachers</u>' fault, no control, bad classroom management, influence of <u>celebrities</u> who are a bad example.
+
+###### Number them
+
+1. Topcic: Causes of bad student behaviour
+2. <u>parents</u> not strict (too lenient)
+3. children don't accept teachers' instructions or school rules
+4. <u>teachers</u>' fault, no control, bad classroom management
+5. influence of <u>celebrities</u> who are a bad example
+
+##### My suggested solutions
+
+<u>parents</u> set rules fro children, use punishments, actions have consequences, schools train <u>teachers</u> and parents, discipline techniques, better communication, <u>famous people</u> act as role models.
+
+###### Number them
+
+1. Topic: My suggested solutions
+2. <u>parents</u> set rules fro children
+3. use punishments, actions have consequences
+4. schools train <u>teachers</u> and parents, discipline techniques, better communication
+5. <u>famous people</u> act as role models
+
+> You can see the three groups of people that we blamed before, we've got a solution for each one.
+
+### Introduction 
+
+#### Plan
+
+- Topic: student behaviour in schools
+- Answer: variety of reasons, steps can be taken to tackle
+
+It is true that the behaviour of school <u>pupils</u> in some parts of the world has been getting worse in recent years. There are <u>a variety of</u> possible reasons for this, but <u>steps can definitely be taken to tackle</u> the problem.
+
+### Paragraph 2
+
+#### Causes of bad student behaviour
+
+<u>**In my opinion**</u>, three main <u>factors</u> are <u>to blame for</u> the way young people behave at school <u>nowadays</u>.
+
+#### Parents not strict (too lenient)
+
+<u>**Firstly**</u>, morden parents tend to be too <u>lenient or permissive</u>.
+
+#### Children don't accept teachers' instructions or school rules
+
+Many children become <u>accustomed</u> to getting whatever they want, and they find it difficult to <u>accept the demands of</u> teachers or the <u>limits imposed on them</u> by school rules.
+
+#### Teachers' fault, no control, bad classroom management
+
+<u>**Secondly**</u>, if teachers cannot control their students, there must be <u>an issue with</u> the quality of calssroom management training or support within schools.
+
+#### Influence of celebrities who are a bad example
+
+<u>**Finally**</u>, children are influenced by the behaviour of celebrities, <u>many of whom</u> set the example that <u>success can be achieved without</u> finishing school.
+
+### Paragraph 3
+
+#### My suggested solutions
+
+Student behaviour can certainly be improved.
+
+#### Parents set rules fro children
+
+<u>**I believe**</u> that the change must <u>start with</u> parents, who <u>need to be persuaded</u> that it is important to set firm rules for their children.
+
+#### Use punishments, actions have consequences
+
+When  children <u>misbehave</u> or break the rules, parents should use <u>reasonable</u> punishments to <u>demonstrate</u> that actions have consequences.
+
+#### Schools train teachers and parents, discipline techniques, better communication
+
+<u>**Also**</u>, schools could play an important role in training both teachers and parents to use <u>effective disciplinary techniques</u>, and in improving the communication between both groups.
+
+#### Famous people act as role models
+
+<u>**At the same time**</u>, famous people, such as musicians and football players, need to understand the responsibility that they have to act as role models to children
+
+### Conclusion
+
+#### Summarise the problem and steps
+
+<u>**In conclusion**</u>, schools will continue to face disciplinbe problems unless parents, teachers and <u>public figures</u> set <u>clear rules</u> and <u>demonstrate</u> the right behaviour themselves.
+
