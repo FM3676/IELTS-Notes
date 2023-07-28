@@ -305,3 +305,65 @@ It is true that people in <u>industrialized nations</u> can expect to longer tha
 - No new information
 - Paraphrasing to show variety
 
+## Lesson 5 - Planning
+
+**Spending 10 minutes planning your essay**
+
+### 3 steps essay plan
+
+> Some people think that it is <u>more effective</u> for students <u>to study in groups</u>, while others believe that it is better for them to <u>study alone</u>. <u>**Discuss both views**</u> and <u>**give your own opinion**</u>.
+
+#### 1. Read and understand the question
+
+- Highlight / underline key parts
+
+#### 2. Plan your essay structure (4 paragraphs)
+
+1. Introduction: topic + answer
+   - Topic: Study in groups or alone
+   - Answer: Sometimes better alone, usually better in a group
+2. Benefits of studying alone
+3. Benefits of group studying (my view)
+4. Conclusion: repeat answer 
+   - Both have benefits, but I prefer group
+
+#### 3. Plan ideas for the two main paragraphs (6 minutes)
+
+> **Planning ideas for main paragraphs**
+>
+> - brainstorm, note down any ideas you have
+> - develop ideas in detail
+> - keep asking yourself 'why?'
+> - Think of examples to support your ideas
+> - finally, try to group related ideas (number them)
+>
+
+##### Benefits of studying alone
+
+Concentrate better, no distractions, focus on the task, read books or articles, study at own place, e.g. when revising for an exam, memories 
+
+######  Number them
+
+1. Topic centence:  There are several benefits of studying alone
+2. Concentrate better
+3. Read books or articles ---- example: when revising for an exam
+4. memorise information
+5. study at own place
+
+##### Benefits of group study
+
+more ideas, share knowledge, gather more information e.g. research project, learn from each other, more motivating, responsibility to the group, sense of conpetition
+
+###### Number them
+
+1. Topic centence: Serveral benefits of studying alone
+2. more ideas, learn from each other
+3. example: esearch project 
+4. more motivating
+
+### 10-minute essay plan, 3 steps:
+
+1. Read and understand the question
+2. Plan your essay structure
+3. Plan ideas for the 2 main paragraphs
+
