@@ -201,3 +201,107 @@ Examiners want to see 'topic vocabulary'
 > - school leavers' career prospects
 > - impress a university admissions officer or a future employer
 
+## Lesson 4 - Conclusions
+
+### 2 easy 'rules'
+
+- never write anything new -- just conclude or summarize what you've already said, if you are asked to give opinion, don't give it in the conclusion, but should be clear throughtout the whole essay what it is.
+- one sentence: repeat, summarize
+
+### Conclusion technique
+
+Paraphrase the answer that you gave in your introduction
+
+### Four types of questions
+
+1. Discussion (+ opinion)
+2. Opinion
+3. Problem and solution
+4. Two-part question
+
+#### 1. Discussion (+ opinion)
+
+> In many cities the use of video cameras in public places is being increased in order to reduce crime, but some people believe that these measures restrict our individual freedom. Do the benfits of increased security outweigh the drawbacks?
+
+##### Introduction
+
+It is true that video <u>surveillance</u> has become <u>commonplace</u> in many cities in recent years. While I understand that critics may see this as an invasion of privacy, <u>I believe</u> that there are more benefits than drawbacks.
+
+##### Conclusion
+
+<u>**In conclusiuon**</u>, <u>I would argue</u> that the advantages of using <u>video security systems</u> in public places do <u>outweigh the disadvantages</u>.
+
+> Start with 'In conclusion'
+>
+> I believe ---- I would ar⁄gue
+>
+> Video surveillance ---- video security systems
+>
+> Outweigh the disadvantages ---- more benefits that drawbacks
+
+#### 2. Opinion
+
+> Families who send their children to private schools should not be required to pay taxes that support the state education system. To what extent do you agree or disagree with this statement?
+
+##### Introduction
+
+<u>Some people believe that</u> parents of children who attend private schools should not need to <u>contribute</u> to state schools through taxes. <u>Personally</u>, I <u>completely</u> disagree with this view.
+
+##### Conclusion
+
+<u>**In conclusion**</u>, <u>I do not believe</u> that any <u>financial concessions</u> should be made for people who choose private education.
+
+> Start with 'In conclusion'
+>
+> I do not believe ---- I completely disagree
+>
+> financial concessions ---- should not need to contribute to taxes
+>
+> people who choose private education ---- parents of children who attend private schools
+
+#### 3. Problem and solution
+
+> In the developed world, average life expectancy is increasing. What problems will this cause for individuals and society? Suggest some measures that could be taken to reduce the impact of ageing populations.
+
+##### Introduction
+
+It is true that people in <u>industrialized nations</u> can expect to longer that ever before. Although there will <u>undoubtedly</u> be some negative consequences of this trend, societies can take steps to <u>mitigate</u> these potential problems.
+
+##### Conclusion
+
+<u>**In conclusion**</u>, various measures can be taken to <u>tackle</u> the problems that are certain to arise as the populations of countries grow older.
+
+> Start with 'In conclusion'
+>
+> various measures can be taken to tackle ---- societies can take steps to mitigate 
+>
+> problems that are certain to arise ----there will undoubtedly be some negative consequences
+>
+> populations of countries grow older ---- people in industrialized nations can expect to longer
+
+#### 4. Two-part question
+
+> There are many different types of music in the world today. Why do we need music? Is the traditional music of a country more important that the international music that is heard everywhere nowadays?
+
+##### Introduction
+
+<u>It is true that</u> a rich variety of musical styles can be found around the world. Music is <u>a vital part of all human</u> cultures for <u>a range of</u> reasons, and <u>I would argue</u> that traditional music is <u>more important than</u> modern, international music.
+
+##### Conclusion
+
+<u>**In conclusion**</u>, music is <u>a necessary part of human existence</u>, and <u>I believe</u> that traditional music <u>should be given more importance</u> than international music
+
+> Start with 'In conclusion'
+>
+> a necessary paet of human existence ---- a viral part of all human cultures 
+>
+> I believe ---- I would argue
+>
+> should be given more importance ---- more important 
+
+### Conclusion sentences Notes
+
+- One sentence
+- No new information
+- Paraphrasing to show variety
+
