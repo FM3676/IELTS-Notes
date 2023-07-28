@@ -329,6 +329,8 @@ It is true that people in <u>industrialized nations</u> can expect to longer tha
 
 #### 3. Plan ideas for the two main paragraphs (6 minutes)
 
+##### Methods
+
 > **Planning ideas for main paragraphs**
 >
 > - brainstorm, note down any ideas you have
@@ -366,4 +368,111 @@ more ideas, share knowledge, gather more information e.g. research project, lear
 1. Read and understand the question
 2. Plan your essay structure
 3. Plan ideas for the 2 main paragraphs
+
+## Lesson 6 - Full Opinion Essay
+
+**The key word of this question is YOU.** Do you agree or disagree. Don;t talk about some people think and other people think.
+
+> The <u>money spent by goverments</u> on <u>space programmes</u> would be better spent on <u>vital public services</u> such as schools and hospitals. To what extent do <u>**you**</u> <u>**agree or disagree**</u>?
+
+### Planning
+
+#### 1. Read and understand the question
+
+- Highlight / underline key parts
+
+#### 2. Plan your essay structure (4 paragraphs)
+
+1. Introduction: topic + answer
+   - Topic: government spending
+   - Answer: agree -- public services instead of space projects
+2. explain why 'space' spending should be stopped
+3. explain why public service spending is better
+4. Conclusion: repeat answer 
+   - spend on services that benfits us all
+
+#### 3. Plan ideas for the two main paragraphs (6 minutes)
+
+##### Why space spending should be stopped
+
+waste of money when projects fail, expensive (scientists, facilities, equipment), no benefit to normal people, politicans showing power, risk of accidents, deaths e.g. Challenger space shuttle
+
+###### Number them
+
+1. Topic centence: Why space spending should be stopped
+2. expensive (scientists, facilities, equipment)
+3. no benfit to normal people, politicans showing power
+4. waste of money when project fail, risk of accidents
+5. example: Challenger space shuttle
+
+##### Why public service spending is better
+
+cheaper e.g. doctors, teachers police instead of astronauts, public services impact on everyone, reduce poverty, better quality of life, we all use schools, hospitals, police, roads etc.
+
+###### Number them
+
+1. Topic centence: Why public service spending is better
+2. cheaper e.g. doctors, teachers police instead of astronauts
+3. public services impact on everyone
+4. we all use schools, hospitals, police, roads etc.
+5.  reduce poverty, better quality of life
+
+### Introduction 
+
+#### Plan
+
+- Topic: government spending
+- Answer: agree -- public services instead of space projects
+
+Goverments in some countries <u>spend large amounts of money</u> on <u>space exploration programmes</u>. I completely agree with the idea that these are a waste of money, and that the funds should <u>be allocated to</u> public services.
+
+### Paragraph 2
+
+#### Why space spending should be stopped
+
+There are several reasons why space programmes should <u>be abandoned</u>.
+
+#### Expensive (scientists, facilities, equipment)
+
+<u>**Firstly**</u>, it is extremely expensive to train scientists and other staff <u>involved with</u> space missions, and <u>facilities and equipment</u> also <u>come at a huge cost to</u> the goverment.
+
+#### No benfit to normal people, politicans showing power
+
+<u>**Secondly**</u>, these programmes do not benfit normal people in our daily lives, they are simply <u>vanity</u> projects for politicians.
+
+#### Waste of money when projects fail, risk of accidents, deaths
+
+<u>**Finally**</u>, many missions to space fail completely, and the <u>smallest technological error can cost astronauts their lives</u>.
+
+#### Example: Challenger space shuttle
+
+The challenger space shuttle disaster showed us that space travel is extremely dangerous, and in my opinion it is not worth the risk.
+
+### Paragraph 3
+
+####  Why public service spending is better
+
+<u>I believe that</u> the money from space programmes should go to <u>vital</u> public services instead
+
+#### Cheaper e.g. doctors, teachers police instead of astronauts
+
+<u>It is much cheaper to train</u> doctors, teachers, police and other public service workers than it is to train astronauts or the scientists and engineers who work on <u>space exploration projects</u>.
+
+####  Public services impact on everyone
+
+<u>Futhermore</u>, public <u>servants</u> do jobs that have a positive impact on <u>every member of</u> society.
+
+#### We all use schools, hospitals, police, roads etc.
+
+<u>For example</u>, we all use schools, hospitals and roads, and we all need the security that the police provide.
+
+#### Reduce poverty, better quality of life
+
+If governments <u>reallocated the money</u> spent on space travel and research, many thousands of people could be <u>lifted out of poverty</u> or given a better quality of life.
+
+### Conclusion
+
+#### Spend on services that benfits us all
+
+<u>In conclusion</u>, <u>my view is that</u> governments should spend money on services that benefit all members of society, and it is wrong to <u>waste resouces</u> on projects that do not improve our everyday lives.
 
