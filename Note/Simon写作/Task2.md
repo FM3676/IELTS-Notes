@@ -1,8 +1,8 @@
-#  Writing Task 2
+# Writing Task 2
 
 ## Lesson1
 
-###  What we need to do?
+### What we need to do?
 
 - **Write an essay**
   - Minimum 250 words
@@ -106,7 +106,7 @@ Work <u>plays a central role in our lives</u>, and we would all like to <u>feel 
 
 1. Firstly, Secondly, Finally
    - Use when we have more that one idea
-   - Perfect for advantages, disadvantages, problems, solutions 
+   - Perfect for advantages, disadvantages, problems, solutions
 2. Idea, Explain, Example
    - When we have only one idea and need to explain it in detail
    - Perfect for on idea, a reason, an opinion
@@ -129,7 +129,7 @@ There are several reasons why I would argue against having <u>compulsory communi
 1. Topic sentence
 2. Firstly <u>(5. explain more, or add example)</u>
 3. Secondly
-4. Finally 
+4. Finally
 
 ##### Remeber:
 
@@ -165,7 +165,7 @@ Examiners want to see 'topic vocabulary'
 
 Although we disagree with this compulsory idea, we dook think that a voluntary community service program could be good for students
 
-- voluntary (not compulsory) community service is positive 
+- voluntary (not compulsory) community service is positive
 - students more motivated if they can choose
 - gain work experience, self confidence, skills
 - good for CVs, career, university admissions, employers
@@ -174,7 +174,7 @@ Although we disagree with this compulsory idea, we dook think that a voluntary c
 
 <u>**On the other hand**</u>, the opportunity to do voluntary community service sould be extremely positve for high school students. <u>**By making these progrsmmrd optional**</u>, schools would ensure that only motivated students took part. <u>**These young people would gain**</u> valuable experience in an adult working environment, which could help to build their self confidence and enhance their skills. <u>**Having such experience and skills on their CVs could greatly improve**</u> school <u>leavers</u>' career <u>prospects</u>. <u>**For example**</u>, a period of voluntary work experience might <u>impress a university admissions officer or a future employer</u>.
 
-> 每一个句子每个点都是对上一个观点更进一步的解释，为什么。例如，我们先说了 **voluntary (not compulsory) community service is positive**， 为什么 positive呢？ 因为**students more motivated if they can choose**。那么他们参加了，又有什么好处呢？**gain work experience, self confidence**, skills。在获得这些以后，带来什么效益呢？**good for CVs, career, university admissions, employers**。最后，举一个简单的**example**即可。
+> 每一个句子每个点都是对上一个观点更进一步的解释，为什么。例如，我们先说了 **voluntary (not compulsory) community service is positive**， 为什么 positive 呢？ 因为**students more motivated if they can choose**。那么他们参加了，又有什么好处呢？**gain work experience, self confidence**, skills。在获得这些以后，带来什么效益呢？**good for CVs, career, university admissions, employers**。最后，举一个简单的**example**即可。
 
 ##### Try to write 5 sentences
 
@@ -273,7 +273,7 @@ It is true that people in <u>industrialized nations</u> can expect to longer tha
 
 > Start with 'In conclusion'
 >
-> various measures can be taken to tackle ---- societies can take steps to mitigate 
+> various measures can be taken to tackle ---- societies can take steps to mitigate
 >
 > problems that are certain to arise ----there will undoubtedly be some negative consequences
 >
@@ -293,11 +293,11 @@ It is true that people in <u>industrialized nations</u> can expect to longer tha
 
 > Start with 'In conclusion'
 >
-> a necessary paet of human existence ---- a viral part of all human cultures 
+> a necessary paet of human existence ---- a viral part of all human cultures
 >
 > I believe ---- I would argue
 >
-> should be given more importance ---- more important 
+> should be given more importance ---- more important
 
 ### Conclusion sentences Notes
 
@@ -324,7 +324,7 @@ It is true that people in <u>industrialized nations</u> can expect to longer tha
    - Answer: Sometimes better alone, usually better in a group
 2. Benefits of studying alone
 3. Benefits of group studying (my view)
-4. Conclusion: repeat answer 
+4. Conclusion: repeat answer
    - Both have benefits, but I prefer group
 
 #### 3. Plan ideas for the two main paragraphs (6 minutes)
@@ -338,15 +338,14 @@ It is true that people in <u>industrialized nations</u> can expect to longer tha
 > - keep asking yourself 'why?'
 > - Think of examples to support your ideas
 > - finally, try to group related ideas (number them)
->
 
 ##### Benefits of studying alone
 
-Concentrate better, no distractions, focus on the task, read books or articles, study at own place, e.g. when revising for an exam, memories 
+Concentrate better, no distractions, focus on the task, read books or articles, study at own place, e.g. when revising for an exam, memories
 
-######  Number them
+###### Number them
 
-1. Topic centence:  There are several benefits of studying alone
+1. Topic centence: There are several benefits of studying alone
 2. Concentrate better
 3. Read books or articles ---- example: when revising for an exam
 4. memorise information
@@ -360,7 +359,7 @@ more ideas, share knowledge, gather more information e.g. research project, lear
 
 1. Topic centence: Serveral benefits of studying alone
 2. more ideas, learn from each other
-3. example: esearch project 
+3. example: esearch project
 4. more motivating
 
 ### 10-minute essay plan, 3 steps:
@@ -388,7 +387,7 @@ more ideas, share knowledge, gather more information e.g. research project, lear
    - Answer: agree -- public services instead of space projects
 2. explain why 'space' spending should be stopped
 3. explain why public service spending is better
-4. Conclusion: repeat answer 
+4. Conclusion: repeat answer
    - spend on services that benfits us all
 
 #### 3. Plan ideas for the two main paragraphs (6 minutes)
@@ -415,9 +414,9 @@ cheaper e.g. doctors, teachers police instead of astronauts, public services imp
 2. cheaper e.g. doctors, teachers police instead of astronauts
 3. public services impact on everyone
 4. we all use schools, hospitals, police, roads etc.
-5.  reduce poverty, better quality of life
+5. reduce poverty, better quality of life
 
-### Introduction 
+### Introduction
 
 #### Plan
 
@@ -450,7 +449,7 @@ The challenger space shuttle disaster showed us that space travel is extremely d
 
 ### Paragraph 3
 
-####  Why public service spending is better
+#### Why public service spending is better
 
 <u>I believe that</u> the money from space programmes should go to <u>vital</u> public services instead
 
@@ -458,7 +457,7 @@ The challenger space shuttle disaster showed us that space travel is extremely d
 
 <u>It is much cheaper to train</u> doctors, teachers, police and other public service workers than it is to train astronauts or the scientists and engineers who work on <u>space exploration projects</u>.
 
-####  Public services impact on everyone
+#### Public services impact on everyone
 
 <u>Futhermore</u>, public <u>servants</u> do jobs that have a positive impact on <u>every member of</u> society.
 
@@ -493,7 +492,7 @@ If governments <u>reallocated the money</u> spent on space travel and research, 
    - Answer: benfits of both, co-operation more important
 2. Why encourage competition
 3. Why teach co-operation (my view)
-4. Conclusion: repeat answer 
+4. Conclusion: repeat answer
    - accept both views, co-operation better
 
 #### 3. Plan ideas for the two main paragraphs (6 minutes)
@@ -524,7 +523,7 @@ Co-opearation even more important, e.g. at work (teams, follow boss's instructio
 4. better attitude for young people
 5. working together
 
-### Introduction 
+### Introduction
 
 #### Plan
 
@@ -604,7 +603,7 @@ Instead of <u>promoting the idea</u> that people <u>are either winners or losers
    - Answer: variety of reasons, steps can be taken to tackle
 2. Causes of bad student behaviour
 3. My suggested solutions
-4. Conclusion: repeat answer 
+4. Conclusion: repeat answer
    - summarise the problem and steps
 
 #### 3. Plan ideas for the two main paragraphs (6 minutes)
@@ -635,7 +634,7 @@ Instead of <u>promoting the idea</u> that people <u>are either winners or losers
 
 > You can see the three groups of people that we blamed before, we've got a solution for each one.
 
-### Introduction 
+### Introduction
 
 #### Plan
 
@@ -678,7 +677,7 @@ Student behaviour can certainly be improved.
 
 #### Use punishments, actions have consequences
 
-When  children <u>misbehave</u> or break the rules, parents should use <u>reasonable</u> punishments to <u>demonstrate</u> that actions have consequences.
+When children <u>misbehave</u> or break the rules, parents should use <u>reasonable</u> punishments to <u>demonstrate</u> that actions have consequences.
 
 #### Schools train teachers and parents, discipline techniques, better communication
 
@@ -711,7 +710,7 @@ When  children <u>misbehave</u> or break the rules, parents should use <u>reason
    - Answer: variety of factors, yes too much bad news
 2. Factors that infulence news editors
 3. Too much bad news, should report more good
-4. Conclusion: repeat answer 
+4. Conclusion: repeat answer
    - difficult news choices, more positive
 
 #### 3. Plan ideas for the two main paragraphs (6 minutes)
@@ -722,7 +721,7 @@ interest or attract viewers / readers, inform he public, important issues and ev
 
 ###### Number them
 
-1. Topic:  Factors that infulence news editors
+1. Topic: Factors that infulence news editors
 2. interest or attract viewers / readers
 3. inform the public, important issues and events, in the public interest
 4. pressure from owners, promote political views
@@ -796,3 +795,100 @@ This kind of news might <u>inspire us all to lead better lives</u>.
 
 <u>**In conclusion**</u>, it must be extremely diffcult for editors to choose <u>which news stories to present</u>, but I would like to see <u>a more positive approach</u> to this <u>vital</u> public service.
 
+## Lesson 10 - Extra help for "Agree or disagree?" Questions
+
+The difficult thing about this type of question is that you have to decide what your opinion is before start writing. You have to decide whethere you agree disagree or partly agree.
+
+### Agree Type
+
+> The money spent by goverments on space programmes would be better spent on vital public services such as schools and hospitals. To what extent do you <u>**agree**</u> or disagree?
+>
+> _---- This is the question from Lesson 6_
+
+**Introduction**:
+
+Goverments in some countries spend large amounts of money on space exploration programmes. <u>**I completely agree**</u> with the idea that <u>these are a waste of money</u>, and that <u>the funds should be allocated to public services</u>.
+
+> 在这里，我们表达我们的观点是同意的，并且阐述了两个理由，分别是：<u>these are a waste of money</u> 和 <u>the funds should be allocated to public services</u>。
+
+**Paragraph 2:**
+
+Explain why 'space' spending should be stopped
+
+**Paragraph 3:**
+
+Explain why public service spending is better
+
+**Conclusion:**
+
+Spend on services that benefit us all
+
+> 在 Paragraph 2 和 Paragraph 3，我们分别论证了我们的两个理由。**注意：**我们没有表达任何我们的 Disagree opinion，我们要说服 Examier，要强烈表达我们 Agree 的理由
+
+> **If you have strong opinion, just try to find two reason to support your opinions**
+
+### Disagree Type
+
+> Some people believe that hobbies need to be difficult to be enjoyable
+>
+> To what extent do you agree or <u>**disagree**</u>?
+
+**Introduction**
+
+Some hobbies are <u>relatively</u> easy, while others present more of a challenge. Personally, I believe that both types of hobby can be fun, and I therefore <u>**disagree**</u> with the statement that hobbies need to be difficult in order to be enjoyable.
+
+**Paragraph 2:**
+
+Explain why esay hobbies can be enjoyable
+
+**Paragraph 3:**
+
+Explain why difficult hobbies can be fun
+
+**Conclusion:**
+
+Disagree that difficult hobbies are better
+
+### Partly Agree Type - 1
+
+> Many people say that we now live in 'consumer societies' where money and pssessions are given to much importance.
+>
+> To what extent do you agree or disagree?
+
+**Introduction**
+
+It is true that many people <u>criticise</u> mordern society because it seems to be too <u>materialistic</u>. <u>**I agree with this to some extent**</u>, <u>**but I do not**</u> think it is the case that everyone is a victim of consumer culture.
+
+**Paragraph 2:**
+
+I believe many people do focus too much on money
+
+**Paragraph 3:**
+
+However, many other are not money oriented
+
+**Conclusion:**
+
+Partly agree
+
+> This looks like a **discussion** essay, but we're not taking about some people think or other people think. It's talking about what I think in both of those paragraphs.
+
+### Partly Agree Type - 2
+
+> In the last century, the first man to walk on the moon said it was "a giant leap for mankind". However, some people think it has made little difference to our daily lives. To what extent do you agree or disagree?
+
+**Introduction**
+
+It is often argued that the act of spending a man to the moon has been of no benefit to normal people. While <u>**I agree that**</u> this is true <u>**in parctical terms**</u>, <u>I believe that the **psychological** impact of this great achievement should not be **underestimated**.</u>
+
+**Paragraph 2:**
+
+No benefit in practical terms (standard of living, health)
+
+**Paragraph 3:**
+
+But it was an inspiring achievement
+
+**Conclusion:**
+
+Partly agree
