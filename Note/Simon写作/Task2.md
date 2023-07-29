@@ -694,3 +694,105 @@ When  children <u>misbehave</u> or break the rules, parents should use <u>reason
 
 <u>**In conclusion**</u>, schools will continue to face disciplinbe problems unless parents, teachers and <u>public figures</u> set <u>clear rules</u> and <u>demonstrate</u> the right behaviour themselves.
 
+## Lesson 9 - Full Two-Part Question Essay
+
+> <u>News editors decide</u> what to broadcast on television and what to print in ewspapers. <u>What factors</u> do <u>**you**</u> think influence these decisions<u>?</u> <u>**Do we**</u> become used to <u>bad news</u>, and would it be better if <u>more good news</u> was reported<u>?</u>
+
+### Planning
+
+#### 1. Read and understand the question
+
+- Highlight / underline key parts
+
+#### 2. Plan your essay structure (4 paragraphs)
+
+1. Introduction: topic + answer
+   - Topic: decisions about news stories
+   - Answer: variety of factors, yes too much bad news
+2. Factors that infulence news editors
+3. Too much bad news, should report more good
+4. Conclusion: repeat answer 
+   - difficult news choices, more positive
+
+#### 3. Plan ideas for the two main paragraphs (6 minutes)
+
+#### Factors that infulence news editors
+
+interest or attract viewers / readers, inform he public, important issues and events, in the public interest, pressure from owners, promote political views
+
+###### Number them
+
+1. Topic:  Factors that infulence news editors
+2. interest or attract viewers / readers
+3. inform the public, important issues and events, in the public interest
+4. pressure from owners, promote political views
+
+> Here we only got 4 sentences, so we need to write one of the opinions in two sentences
+
+#### Too much bad news, should report more good
+
+accustomed to bad news, war, crime, natural disasters, human suffering, desensitises us, cynical about the world, prefer positive news, e.g. medical workers, volunteers, kindness, news to inspire us
+
+###### Number them
+
+1. Topic: Too much bad news, should report more good, accustomed to bad news
+2. war, crime, natural disasters, human suffering
+3. desensitises us, cynical about the world
+4. prefer positive news, e.g. medical workers, volunteers, kindness
+5. news to inspire us
+
+### Introduction
+
+#### Plan
+
+- Topic: decisions about news stories
+- Answer: variety of factors, yes too much bad news
+
+<u>**It is true that**</u> editors have to make difficult decisions about which news stories they <u>broadcast or publish</u>, and their choices are <u>no doubt influenced by</u> a variety of factors. <u>**In my opinion**</u>, we <u>are exposed to</u> too much bad news, and I would welcome a <u>greater emphasis</u> on good news
+
+### Paragraph 2
+
+#### Variety of factors that infulence news editors
+
+Editors face <u>a range of considerations</u> when deciding what <u>news stories</u> to focus on.
+
+#### Interest or attract viewers / readers
+
+<u>**Firstly**</u>, I <u>imagine</u> that they have to consider whether viewers or readers will <u>be interested enough to</u> <u>choose</u> their television channel or their newspapaer <u>over</u> competing providers.
+
+#### Inform he public, important issues and events, in the public interest
+
+<u>**Secondly**</u>, news editors have a <u>responsibility</u> to inform the public about important events and issues, and they should <u>therefore</u> <u>prioritise</u> stories that are <u>in the public interest</u>.
+
+#### Pressure from owners, promote political views
+
+<u>**Finally**</u>, editors are probaly <u>under some pressure</u> from the owners who employ them. <u>**For example**</u>, a news paper owner might have <u>particular political views</u> that he or she wants to <u>promote</u>.
+
+### Paragraph 3
+
+#### Too much bad news, should report more good, accustomed to bad news
+
+It <u>seems to me that</u> people do become <u>accustomed to</u> nefative news.
+
+#### War, crime, natural disasters, human suffering
+
+We are <u>exposed to a daily</u> <u>basis to</u> stories about war, crime, natural disasters and <u>tragic</u> <u>human suffering</u> around the world.
+
+#### Desensitises us, cynical about the world
+
+<u>**I believe**</u> that <u>such repeated exposure</u> gradually <u>desensitises</u> people, and we become more <u>cynical</u> about the world and more <u>sceptical</u> that we can do anything to change it.
+
+#### Prefer positive news, e.g. medical workers, volunteers, kindness
+
+I would <u>prefer to</u> see more positive news stories, such as reports of the work of medical <u>staff</u> after a natural disaster, or the kindness of volunteers who help in their communities.
+
+#### News to inspire us
+
+This kind of news might <u>inspire us all to lead better lives</u>.
+
+### Conclusion
+
+#### Difficult news choices, more positive
+
+<u>**In conclusion**</u>, it must be extremely diffcult for editors to choose <u>which news stories to present</u>, but I would like to see <u>a more positive approach</u> to this <u>vital</u> public service.
+
