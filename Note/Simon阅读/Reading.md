@@ -134,3 +134,24 @@ The <u>majority of choices</u> we make on a <u>daily</u> basis are <u>conscious 
 - FInd the 'keywords' and then compare the question and passage carefully
 - **Answer are always in the correct order in the passage**
 
+## Lesson 4 - Matching paragraph headings
+
+Choose the best heading form a list of headings for each paragraph in the passage.
+
+### 'Pargraph headings' questions are difficult
+
+Because the answers are <u>not in order</u> in the passage and because some of the headings may be similar.
+
+### Techniques
+
+1. Do 'paragraph headings' questions last
+   - Do all other questions for that passage first
+   - You will then be more familar with the passage
+   - You might get some of the answers from memory
+2. Underline 'keywords' in each heading on the list
+3. Then read the shortest or easiest paragraph
+   - Read at normal speed
+   - Underline the main ideas in the paragraph
+   - Compare with <u>all</u> of the headings
+   - Choose the best one
+
