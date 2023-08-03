@@ -10,7 +10,7 @@
 ### Basic exam techniques:
 
 1. Don't read the passage first
-2. Just read the title 
+2. Just read the title
 3. Then go to the first question
 4. Underline 'keywords' in the qeustions
 5. Then search for those words in the passage
@@ -55,11 +55,11 @@ You can normally find the answers **IN ORDER** in the passage
 
 > **Fill the gap with one word**
 >
-> 1. Mosses are normally found in  _____________ moisture and shelter from sunlight.
+> 1. Mosses are normally found in **\*\***\_**\*\*** moisture and shelter from sunlight.
 
 ##### Underline 'keywords'
 
-<u>Mosses</u> are <u>normally found in</u>  _____________ <u>moisture</u> and <u>shelter from sunlight</u>.
+<u>Mosses</u> are <u>normally found in</u> **\*\***\_**\*\*** <u>moisture</u> and <u>shelter from sunlight</u>.
 
 ##### Find the 'keywords' in passage
 
@@ -67,7 +67,7 @@ You can normally find the answers **IN ORDER** in the passage
 
 ##### Find the answer
 
-这里跟在**in**后面的有clumps，也有locations。答案应该为location，因为前面有修饰**<u>damp</u> and <u>shady</u>**，对应
+这里跟在**in**后面的有 clumps，也有 locations。答案应该为 location，因为前面有修饰**<u>damp</u> and <u>shady</u>**，对应
 
 **<u>moisture</u> and <u>shelter from sunlight</u>**。
 
@@ -88,7 +88,7 @@ These differences are not important! We can apporach both questions types in the
 
 #### True
 
-> While the same <u>meaning could be conveyed</u> through the roughly equivalent *<u>powerful tea,</u>* the fact is that <u>English prefers</u> to speak of tea in terms of being <u>strong rather than</u> in terms of being <u>powerful</u>.
+> While the same <u>meaning could be conveyed</u> through the roughly equivalent _<u>powerful tea,</u>_ the fact is that <u>English prefers</u> to speak of tea in terms of being <u>strong rather than</u> in terms of being <u>powerful</u>.
 
 ##### Question
 
@@ -126,7 +126,7 @@ The <u>majority of choices</u> we make on a <u>daily</u> basis are <u>conscious 
 
 <u>Houdini</u> was <u>more sucessful</u> in <u>Europe</u> <u>than</u> in <u>America</u>
 
-### Remember 
+### Remember
 
 - True / Yes --- The correct information is given, and you can definitely show that
 - False / No --- Different information is given, contradicting the statement
@@ -160,6 +160,7 @@ Because the answers are <u>not in order</u> in the passage and because some of t
 Find which paragraph contains the information in each statement from a list.
 
 ### 'Which paragraph contains' questions are difficult
+
 - The answer are <u>not in order</u> in the passage
 - The same paragraph may contain more than one answer
 - Some of the paragraphs may not contain any answers
@@ -175,4 +176,7 @@ Find which paragraph contains the information in each statement from a list.
    - Information that you remember reading about
    - Easy keywords that you can <u>scan</u> for
 
-​    
+## Lesson 6 - Multiple choice questions
+
+Multiple choice questions can be difficult because there is a lot to read, and the choice can be similar and confusing. You can normally find the answers <u>in order</u> in the passage.
+
