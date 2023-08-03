@@ -155,3 +155,24 @@ Because the answers are <u>not in order</u> in the passage and because some of t
    - Compare with <u>all</u> of the headings
    - Choose the best one
 
+## Lesson 5 - Which paragraph contains?
+
+Find which paragraph contains the information in each statement from a list.
+
+### 'Which paragraph contains' questions are difficult
+- The answer are <u>not in order</u> in the passage
+- The same paragraph may contain more than one answer
+- Some of the paragraphs may not contain any answers
+
+### Techniques
+
+1. Do 'which paragraph contains' questions last
+   - Do all other questions for that passage first
+   - You will then be more familar with the passage
+   - You might get some of the answers from memory
+2. Underline 'keywords' in each heading on the list
+3. Then read the shortest or easiest paragraph
+   - Information that you remember reading about
+   - Easy keywords that you can <u>scan</u> for
+
+​    
