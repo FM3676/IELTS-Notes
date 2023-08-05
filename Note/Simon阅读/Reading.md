@@ -206,3 +206,5 @@ Match the statement and name
 
 ## Lesson 8 - 'Short answer' questions
 
+## Lesson 9 - Matching sentence endings
+
