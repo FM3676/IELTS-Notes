@@ -204,3 +204,5 @@ Match the statement and name
 4. Compare with all of the question statements
    - Go through the question statements to see if any of them match what you read
 
+## Lesson 8 - 'Short answer' questions
+
