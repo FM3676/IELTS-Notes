@@ -180,3 +180,27 @@ Find which paragraph contains the information in each statement from a list.
 
 Multiple choice questions can be difficult because there is a lot to read, and the choice can be similar and confusing. You can normally find the answers <u>in order</u> in the passage.
 
+## Lesson 7 - Matching names
+
+- A list of question <u>statements</u>
+- A box containing a list of <u>names</u>
+
+Match the statement and name
+
+### 'Matching names' sections can be difficult
+
+- The answers are <u>not in order</u> in the passage
+- One name may be used for <u>more than one answer</u> (if it matches more than one of the statements)
+- Some of the <u>names may not be needed</u>
+
+### Techniques
+
+1. Underline 'keywords' in each statement
+2. Scan the passage to find all of the names
+   - Highlight each name clearly (e.g. circle them)
+3. Choose the name with the shortest description
+   - Read the sentences around that name
+   - Underline the main ideas relating to that name
+4. Compare with all of the question statements
+   - Go through the question statements to see if any of them match what you read
+
