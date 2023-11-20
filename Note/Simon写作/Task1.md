@@ -1,4 +1,4 @@
-#  Writing Task 1
+# Writing Task 1
 
 ## Lesson1
 
@@ -17,7 +17,7 @@
 5. Diagram - comparing 一个比较事物的图表
 6. Diagram - process 一个展示过程的图表
 
-对于前四个种类，他们的共同点是都会带有数字，而需要做的就是描述Describe这些数字，比较Compare这些数字，然后讲述他们的变化以及趋势Changes/Trends。
+对于前四个种类，他们的共同点是都会带有数字，而需要做的就是描述 Describe 这些数字，比较 Compare 这些数字，然后讲述他们的变化以及趋势 Changes/Trends。
 
 对于第五种与前四种比较相似，也需要比较，但只是没有数字，唯一有区别的就是第六种流程图
 
@@ -30,23 +30,85 @@
 
 > Or put the overview at the end
 
-#### 1. Introduction 
+#### 1. Introduction
 
-​	One sentence: Paraphrase the question 用一句话解释总结这个表，可以换个说法重新说一次图表的title。
+ One sentence: Paraphrase the question 用一句话解释总结这个表，可以换个说法重新说一次图表的 title。
 
-> The graph below shows **electricity production**(in terawatt hours) *in France* `between 1980 and 2012`
+> The graph below shows **electricity production**(in terawatt hours) _in France_ `between 1980 and 2012`
 >
->  -->
+> -->
 >
-> The line graph compares **the amount of electricty** produced *in France* using four different sources of powe`r over a period of 32 years`
+> The line graph compares **the amount of electricty** produced _in France_ using four different sources of power `over a period of 32 years`
+
+##### Methods for rewriting sentences
+
+###### (1).Replacing synonyms
+
+题目给出的总结语句可以分为以下几个部分:
+
+**<u>某种图</u>** `shows` **<u>某种数据</u>** 在 **<u>某种条件</u>** 下
+
+其中，**<u>某种图</u>**替换为具体的：**Line graph**, **Pie chart**, **Bar chart**, **Table**
+
+`shows`替换为：**Illustrates**, **Compares**
+
+其余的一些描述性词汇也可以做出替换，例如：
+
+**Proportion** ---> **Percentage**
+
+**Information** ---> **Data**
+
+**Number** ---> **Figure**
+
+**Types** ---> **Categories**
+
+**Trends** ---> **Changes**
+
+###### Changing the word oreder
+
+后置定语 ---> 前置修饰语
+
+句中状语 ---> 句前/句末状语
+
+###### Summarizing
+
+对一些列举的内容进行概括，例如:
+
+**美国、英国、荷兰** ---> **Three countries**
+
+**1990、1991、1992** ---> **Three years**
+
+> **Question:** 
+>
+> The graph below shows average yearly rainfall in London and Paris measured in millimetres
+>
+> 
+>
+> **Rewriting:**
+>
+> The graph --> The line graph
+>
+> shows --> illustrates
+>
+> average yearly rainfall --> average annual rainfall
+>
+> in London and Paris --> in two cities
+>
+> measured in millimetres --> 从句尾移动到 rainfall 后面
+>
+> 
+>
+> **Answer:** 
+>
+> The line graph illustrates the average annual rainfall measured in millimeters in two cities
 
 #### 2. Overview
 
-​	2 sentences: Explain or describe The main, general things
+ 2 sentences: Explain or describe The main, general things
 
 #### 3+4. Details
 
-​	Includes numbers and you do your comparisons or trends
+ Includes numbers and you do your comparisons or trends
 
 > Why 2 paragraphs?
 >
@@ -62,7 +124,7 @@ Line graphs show numbers changing over a period of time
 >
 > Your job is to compare the lines, not describe them separately
 
-**First, make  a very general comparison (summary / overview paragraph)**
+**First, make a very general comparison (summary / overview paragraph)**
 
 ![First-step](Task1-Images/Lesson2/First-step.png)
 
@@ -72,13 +134,13 @@ Line graphs show numbers changing over a period of time
 
 可以在开头比较，或者说蓝线在超过绿线后一直保持最高，或者蓝线在什么时候达到最高点，紫色线一直以来很平稳，有非常多的事情可以比较和形容，但是没有办法每个都写，所以要做出**选择**。You can’t describe everything, **Write at least one thing about each line.**
 
-## Lesson 3 -  Bar Chart
+## Lesson 3 - Bar Chart
 
 Bar charts <u>can</u> show numbers changing over a period of time
 
 ![Bar-chart1](Task1-Images/Lesson3/Bar-chart1.png)
 
-可以看到，对于Shop A它是逐步升高的，而对于Shop B则是相对平稳的，可以画出两条折线图来表明他们的趋势
+可以看到，对于 Shop A 它是逐步升高的，而对于 Shop B 则是相对平稳的，可以画出两条折线图来表明他们的趋势
 
 > This type of bar chart is the same as a line graph
 
@@ -86,17 +148,17 @@ Bar charts <u>can</u> show numbers changing over a period of time
 
 ![Bar-chart2-1](Task1-Images/Lesson3/Bar-chart2-1.png)
 
-在这张图里，就无法像上一个一样连出一条线了，因为X轴不再是时间，而是不同的类别，所以在这里要做的就是比较柱子，比如，在AB两个商店里，B店的Laptop售卖的更好。
+在这张图里，就无法像上一个一样连出一条线了，因为 X 轴不再是时间，而是不同的类别，所以在这里要做的就是比较柱子，比如，在 AB 两个商店里，B 店的 Laptop 售卖的更好。
 
 ![Bar-chart2-2](Task1-Images/Lesson3/Bar-chart2-2.png)
 
-同样的，也可以在同一商店内进行比较，例如商店A内，手机卖的比Laptop好。
+同样的，也可以在同一商店内进行比较，例如商店 A 内，手机卖的比 Laptop 好。
 
 > Your job is to comapre the bars.
 
 **First,** make a very general comparison (summary / overview paragraph)
 
-例如，上图我们可以得出，A店的Mobile是最高的，B店内每一样售卖的数量都差不多，不需要说出具体的数字，只需要进行简单浅显的比较即可。
+例如，上图我们可以得出，A 店的 Mobile 是最高的，B 店内每一样售卖的数量都差不多，不需要说出具体的数字，只需要进行简单浅显的比较即可。
 
 **Second,** compare specific numbers (‘details’ paragraphs)
 
@@ -114,7 +176,7 @@ Pie charts <u>can</u> show numbers, but they <u>always</u> show percentages
 2. 50% of the children in the class prefer football to any other sport.
 3. Half of the class said that football was their favourite sport.
 
-> 值得注意的是，上面的句子来源于右边的百分比饼图，即使没有百分比，依靠左边同样可以说 Half of the class said that football was their favourite sport. 如果这些数字都没有，那也可以靠看估计，写出Around 50% of the children in the class prefer football to any other sport.
+> 值得注意的是，上面的句子来源于右边的百分比饼图，即使没有百分比，依靠左边同样可以说 Half of the class said that football was their favourite sport. 如果这些数字都没有，那也可以靠看估计，写出 Around 50% of the children in the class prefer football to any other sport.
 
 Remember: the full pie is always 100%
 
@@ -207,7 +269,7 @@ Language for process descriptions:
 
 ![Process-diagram3](Task1-Images/Lesson7/Process-diagram3.png)
 
-什么是passive(被动) verbs？ 例如这里， 可以说：
+什么是 passive(被动) verbs？ 例如这里， 可以说：
 
 **glass <u>is collected</u>**
 
@@ -223,13 +285,13 @@ Language for process descriptions:
 
 Next, people <u>sort</u> the glass by hand
 
-也可以写为更好的被动语态passive verbs：
+也可以写为更好的被动语态 passive verbs：
 
 Next, the collected glass <u>is sorted</u> by hand
 
 ![Process-diagram5](Task1-Images/Lesson7/Process-diagram5.png)
 
-再看一个难一点的情况，这里是有可能不知道grind的过去式的，所以这里需要如何表达呢？
+再看一个难一点的情况，这里是有可能不知道 grind 的过去式的，所以这里需要如何表达呢？
 
 主动句式如下：
 
@@ -239,7 +301,7 @@ A machine <u>grinds</u> the glass.
 
 The glass <u>passes</u> thtough a grinding machine.
 
-现在尝试被动态，但我们不确定grind的过去式，所以依然可以使用pass
+现在尝试被动态，但我们不确定 grind 的过去式，所以依然可以使用 pass
 
 The glass <u>is passed</u> through a grinding machine
 
@@ -307,4 +369,3 @@ Comparisonm diagrams show:
 ### ‘Alternative locations’ map
 
 ![Comparison-diagram9](Task1-Images/Lesson8/Comparison-diagram9.png)
-
