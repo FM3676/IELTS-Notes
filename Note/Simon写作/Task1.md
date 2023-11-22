@@ -32,7 +32,7 @@
 
 #### 1. Introduction
 
- One sentence: Paraphrase the question 用一句话解释总结这个表，可以换个说法重新说一次图表的 title。
+One sentence: Paraphrase the question 用一句话解释总结这个表，可以换个说法重新说一次图表的 title。
 
 > The graph below shows **electricity production**(in terawatt hours) _in France_ `between 1980 and 2012`
 >
@@ -78,11 +78,9 @@
 
 **1990、1991、1992** ---> **Three years**
 
-> **Question:** 
+> **Question:**
 >
 > The graph below shows average yearly rainfall in London and Paris measured in millimetres
->
-> 
 >
 > **Rewriting:**
 >
@@ -96,19 +94,70 @@
 >
 > measured in millimetres --> 从句尾移动到 rainfall 后面
 >
-> 
->
-> **Answer:** 
+> **Answer:**
 >
 > The line graph illustrates the average annual rainfall measured in millimeters in two cities
 
 #### 2. Overview
 
- 2 sentences: Explain or describe The main, general things
+2 sentences: Explain or describe The main, general things
+
+引导词：Overall, In sum...
+
+##### Line Graph
+
+![Overview-LineGraph](Task1-Images/Lesson1/Overview-LineGraph.png)
+
+这是一个动态图，折线数据的变化是随时间变化而变化的。所以可以做出一下两点总结
+
+1. 在 8 月，每个城市的人均用水量差距较大；而 12 月，差距缩小
+2. 在 8 月到 12 月，纽约和迈阿密的人均用水量总体下降，而西雅图和亚特兰大的数据总体上升
+
+> In sum, there was a large gapbetween the numbers for each city in August, while by December the difference narrowed.
+>
+> Between August and Decemeber, New York and Miami had a general decline in household water uses per person, whereas Seattle and Atlanta saw an increase.
+
+##### Bar Chart
+
+![Overview-BarChart](Task1-Images/Lesson1/Overview-BarChart.png)
+
+这是一个静态图，图中的数据不是随着时间变化而变化，而是不同年龄以不同的表现，同样做出两点总结
+
+1. 女性患有慢性病的比例，普遍低于同年龄段的男性
+2. 年龄大的人比年轻人患病的风险更高
+
+> Overall, the proportion of women with more than one chronic disease is much lower than that of men in the same age group.
+>
+> Also, older people are at higher risk of developing chronic diseases than yound people.
+
+这里还需要注意的是，我们写的是**年龄大的人比年轻人患病的风险更高**，而不是**~~随着年龄的增长，人们患病的风险会越来越高~~**。因为这不是一个随时间变化而变化的趋势图。
+
+##### Pie Chart
+
+![Overview-PieChart](Task1-Images/Lesson1/Overview-PieChart.png)
+
+在对 Pie Chart 进行看形时，关注其中的色块差异。上图可以得到以下两个结论：
+
+1. 选择 Two other clubs 的学生比例在两个年份中是相对稳定的
+2. 选择其他 Clubs 或没有选择任何 Clubs 的学生比例在两个年份中都有一定的变化。
+
+> In sum, the percentage of the students at this university who participate in two other clubs remained stable over the two years.
+>
+> There have been changes in the percentage of students opting for other clubs or none at all
+
+##### Table
+
+![Overview-Table](Task1-Images/Lesson1/Overview-Table.png)
+
+对于 Table而言，他没有直观的图形而只有数据，所以只需要观察数据的总体形态即可，不需要观察每个数据的个位数是多少，看十位数的大小和变化就可以。
+
+1. 5个国家在Food and Drinks上的消费占比都是最大的；而在Leisure方面的消费是最小的
+
+> Overall, for these five countries, the proportion of cunsumption on food and drinks is the largest; the smallest part, on the contrary, is on leisure
 
 #### 3+4. Details
 
- Includes numbers and you do your comparisons or trends
+Includes numbers and you do your comparisons or trends
 
 > Why 2 paragraphs?
 >
