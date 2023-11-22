@@ -149,9 +149,9 @@ One sentence: Paraphrase the question 用一句话解释总结这个表，可以
 
 ![Overview-Table](Task1-Images/Lesson1/Overview-Table.png)
 
-对于 Table而言，他没有直观的图形而只有数据，所以只需要观察数据的总体形态即可，不需要观察每个数据的个位数是多少，看十位数的大小和变化就可以。
+对于 Table 而言，他没有直观的图形而只有数据，所以只需要观察数据的总体形态即可，不需要观察每个数据的个位数是多少，看十位数的大小和变化就可以。
 
-1. 5个国家在Food and Drinks上的消费占比都是最大的；而在Leisure方面的消费是最小的
+1. 5 个国家在 Food and Drinks 上的消费占比都是最大的；而在 Leisure 方面的消费是最小的
 
 > Overall, for these five countries, the proportion of cunsumption on food and drinks is the largest; the smallest part, on the contrary, is on leisure
 
@@ -162,6 +162,116 @@ Includes numbers and you do your comparisons or trends
 > Why 2 paragraphs?
 >
 > This makes you organise or ‘group’ the information better
+
+对于 details 段，在写的时候不要将 detail 大段的平铺，而是要有秩序的组织起来，不然显得杂乱无章是无法拿到高分的。
+
+我们需要将获取到的 detail 进行分组，原则就是**将具有相似性的内容分成一组**。分组方式并不是固定的，只要可以将一个图表内的 main features 进行有秩序的阐述，就可以拿到高分。
+
+##### Sort by time
+
+根据时间进行 detail 的划分，举例如下：
+
+![Details-SortByTime](Task1-Images/Lesson1/Details-SortByTime.png)
+
+10 月这个时间点处于整个时间轴的中点，因此可以以此一分为二，分为 10 月前和 10 月后两段 details 段。
+
+##### Sort by rank/level
+
+我们也可以根据数据的排名来对 detail 作区分，举例如下：
+
+![Details-SortByRank-1](Task1-Images/Lesson1/Details-SortByRank-1.png)
+
+1. 对 New York 和 Miami 的数据进行描述（8 月份起点上分别是第一名和第二名）
+2. 对 Seattle 和 Atlanta 的数据进行描述（8 月份起点上分别是第三名和第四名）
+
+以下是一个柱状图的例子：
+
+![Details-SortByRank-2](Task1-Images/Lesson1/Details-SortByRank-2.png)
+
+这里可以中美单独分为一段，因为它们是第一名和第二名，而且都与剩下的所有国家差距巨大
+
+1. 描述中国和美国的情况
+2. 描述其他的国家（3-10 名）的情况
+
+比较对象本身的特点
+
+图例中<u>**比较对象**</u>本身自带**<u>分组</u>**的特点
+
+##### Sort by characteristics of the object of comparison(itself)
+
+对于有的图像，其本身图像的特点就可以作为分类的依据，例子如下：
+
+![Details-SortByCharacteristicsOfTheObjectOfComaprison-1](Task1-Images/Lesson1/Details-SortByCharacteristicsOfTheObjectOfComaprison-1.png)
+
+可以看到图上的所有项目可以自动的分成两组。
+
+第一组为：No clubs、Drama only、Basketball only、Literature only。这一部分表面学生没有参加，或只参加了一个社团的学生，且参加的均是大众化社团。
+
+第二组伪：Another club、Two other clubs。这一组的则是参加两个或其他小众社团的学生。
+
+因此可以分为以下两段：
+
+1. 参加 No clubs、Drama only、Basketball only、Literature only 的数据
+2. 参加 Another club、Two other clubs 的数据
+
+再看下面的例子：
+
+![Details-SortByCharacteristicsOfTheObjectOfComaprison-2](Task1-Images/Lesson1/Details-SortByCharacteristicsOfTheObjectOfComaprison-2.png)
+
+这里可以看到，Table 的自带有三组分类，即：Food and Drinks、Clothing and Footwear、Leisure
+
+因此可以写三个 Details 段：
+
+1. 消费 Food and drinks 的数据
+2. 消费 Clothing and footwear 的数据
+3. 消费 Leisure 的数据
+
+> Details 段也可以写成三段，不一定是两段，但再多就不合适了。但最重要的是呈现的方法，样式和内容要符合图表
+
+##### Sort by different dimensions of comparison
+
+可以根据比较的不同维度来划分细节段。许多图表都会根据以例如地区、性别、年龄、职业、功能等维度作为比较依据来呈现。例如：
+
+![Details-SortByDifferentDimensionsOfComparison](Task1-Images/Lesson1/Details-SortByDifferentDimensionsOfComparison.png)
+
+可以看到图表划分有男女和不同年龄这两个维度，因此可以做出以下分组：
+
+1. 男性不同年龄段的内部对比；以及女性不同年龄段的内部对比
+2. 每一个年龄段，男性与女性之间的交叉对比
+
+##### Sort by nums of chatrs
+
+有的题目会同时有两张图，我们只需要在两段里分别描述两张图表即可。例如：
+
+![Details-SortByNumsOfCharts](Task1-Images/Lesson1/Details-SortByNumsOfCharts.png)
+
+那么就可以划分两段
+
+1. 描述 Bar Chart
+2. 描述 Table
+
+##### Introductory words for the "Details" paragraph
+
+对于 Details 段落的引导词有以下几种类型
+
+###### X & Y
+
+两个段落描述的数据不一样，如先描述 X 数据再在下一段描述 Y 数据，那么可以写例如：**对于 X(As for X)**、**对于 Y(Concerning Y)**，这类的引导词
+
+###### Contrary/Similar opinion
+
+两个段落有相反/相似的观点，那么就可以用如下的几个：
+
+相似的：Similarly、Likewise
+
+相反的：By comparison、By contrast、On the other hand
+
+###### Different types of charts
+
+如果两段对应 2 种不同类型的图表，就可以按如下的写：
+
+1. As shown in the first chart
+2. As shown in the second chart
 
 ## Lesson 2 - Line Graphs
 
